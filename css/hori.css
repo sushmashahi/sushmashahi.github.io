@@ -1,0 +1,23 @@
+#about > div > div.row > div > p  {
+    font-size: large;
+}
+
+.typewrite,
+#contact > div > div > div > p {
+    font-size: x-large;
+}
+
+#contact > div > div > div.col-lg-4.mr-auto > p > a {
+    color: #fff;
+}
+
+.masthead-avatar {
+    border-radius: 50%;
+}
+
+.icoDeviantArt:hover { color: #dc3545; }
+.icoFacebook:hover { color: #3B5998; }
+.icoGitHub:hover { color: #211F1F; }
+.icoLinkedIn:hover { color: #2867B2; }
+.icoSteam:hover { color: #1B2838; }
+.icoTwitter:hover { color: #33CCFF; }
